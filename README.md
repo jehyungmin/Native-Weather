@@ -1,3 +1,1 @@
-# WeatherApp
-# weatherApp
 # Native-Weather
