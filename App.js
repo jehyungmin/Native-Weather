@@ -41,6 +41,7 @@ export default class App extends Component {
       });
     });
   }
+  
   render() {
     const { isLoaded, error, temperature, name} = this.state;
     return (

@@ -8,44 +8,44 @@ const weatherCases = {
     Rain : {
         colors:['#00C6FB','#005BEA'],
         title: "Raining",
-        subtitle: "For more info look outside",
+        subtitle: "비와요 우산 챙겨요",
         icon: 'ios-rainy'
     },
     Clear: {
         colors: ['#FEF253', '#FF7300'],
         title: "Sunny",
-        subtitle: "Go get your ass burnt",
+        subtitle: "날씨가 좋아요",
         icon: 'ios-sunny'
     },
     Thunderstorm: {
         colors: ['#00ECBC', '#007ADF'],
         title: "Thunderstorm",
-        subtitle: "Actually, outside of the house",
+        subtitle: "천둥과 비가 함께와요",
         icon: 'ios-thunderstorm'
     },
     Clouds: {
         colors: ['#D7D2CC', '#304352'],
         title: "Clouds",
-        subtitle: "I Know, fucking boring",
+        subtitle: "날씨가 흐려요",
         icon: 'ios-cloudy'
     },
     Snow: {
         colors: ['#7DE2FC', '#B9B6E5'],
         title: "Snow",
-        subtitle: "Do you want to build a snowman",
+        subtitle: "눈이내려요 미끄럼에 조심해요",
         icon: 'ios-snow'
     },
     Drizzle: {
         colors: ['#89F7FE', '#66A6FF'],
         title: "Drizzle",
-        subtitle: "Id like rainm but gay",
+        subtitle: "약간의 비가 와요",
         icon: 'ios-rainy-outline'
     },
     Haze: {
-        colors: ['#89F7FE', '#66A6FF'],
-        title: "Drizzle",
-        subtitle: "Id like rainm but gay",
-        icon: 'ios-rainy-outline'
+        colors: ['#D7D2CC', '#304352'],
+        title: "Haze",
+        subtitle: "안개가 조금 있어요",
+        icon: 'cloudy-night'
     },
 }
 
